@@ -4,6 +4,7 @@
 .exe.config
 .dll
 .cache
+.obj/Debug/
 
 # Prerequisites
 *.d
