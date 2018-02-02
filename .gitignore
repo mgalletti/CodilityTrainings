@@ -1,3 +1,10 @@
+.DS_Store
+.pdb
+.exe
+.exe.config
+.dll
+.cache
+
 # Prerequisites
 *.d
 
