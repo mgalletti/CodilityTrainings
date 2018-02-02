@@ -1,0 +1,2 @@
+# CodilityTrainings
+Codility lesson challenges
