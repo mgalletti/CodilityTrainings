@@ -1,0 +1,7 @@
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\CountDiv\bin\Debug\CountDiv.exe.config
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\CountDiv\bin\Debug\CountDiv.exe
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\CountDiv\bin\Debug\CountDiv.pdb
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\CountDiv\obj\Debug\CountDiv.csprojResolveAssemblyReference.cache
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\CountDiv\obj\Debug\CountDiv.csproj.CoreCompileInputs.cache
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\CountDiv\obj\Debug\CountDiv.exe
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\CountDiv\obj\Debug\CountDiv.pdb

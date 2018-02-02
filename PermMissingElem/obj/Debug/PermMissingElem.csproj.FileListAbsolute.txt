@@ -1,0 +1,7 @@
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermMissingElem\bin\Debug\PermMissingElem.exe.config
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermMissingElem\bin\Debug\PermMissingElem.exe
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermMissingElem\bin\Debug\PermMissingElem.pdb
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermMissingElem\obj\Debug\PermMissingElem.csproj.CoreCompileInputs.cache
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermMissingElem\obj\Debug\PermMissingElem.exe
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermMissingElem\obj\Debug\PermMissingElem.pdb
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermMissingElem\obj\Debug\PermMissingElem.csprojResolveAssemblyReference.cache

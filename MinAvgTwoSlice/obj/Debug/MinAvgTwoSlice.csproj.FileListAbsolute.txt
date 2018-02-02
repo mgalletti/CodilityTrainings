@@ -1,0 +1,7 @@
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MinAvgTwoSlice\bin\Debug\MinAvgTwoSlice.exe.config
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MinAvgTwoSlice\bin\Debug\MinAvgTwoSlice.exe
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MinAvgTwoSlice\bin\Debug\MinAvgTwoSlice.pdb
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MinAvgTwoSlice\obj\Debug\MinAvgTwoSlice.csprojResolveAssemblyReference.cache
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MinAvgTwoSlice\obj\Debug\MinAvgTwoSlice.csproj.CoreCompileInputs.cache
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MinAvgTwoSlice\obj\Debug\MinAvgTwoSlice.exe
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MinAvgTwoSlice\obj\Debug\MinAvgTwoSlice.pdb

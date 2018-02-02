@@ -1,0 +1,7 @@
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogJmp\bin\Debug\FrogJmp.exe.config
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogJmp\bin\Debug\FrogJmp.exe
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogJmp\bin\Debug\FrogJmp.pdb
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogJmp\obj\Debug\FrogJmp.csprojResolveAssemblyReference.cache
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogJmp\obj\Debug\FrogJmp.csproj.CoreCompileInputs.cache
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogJmp\obj\Debug\FrogJmp.exe
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogJmp\obj\Debug\FrogJmp.pdb

@@ -1,0 +1,7 @@
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MaxCounters\bin\Debug\MaxCounters.exe.config
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MaxCounters\bin\Debug\MaxCounters.exe
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MaxCounters\bin\Debug\MaxCounters.pdb
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MaxCounters\obj\Debug\MaxCounters.csprojResolveAssemblyReference.cache
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MaxCounters\obj\Debug\MaxCounters.csproj.CoreCompileInputs.cache
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MaxCounters\obj\Debug\MaxCounters.exe
+C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MaxCounters\obj\Debug\MaxCounters.pdb
