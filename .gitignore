@@ -4,7 +4,12 @@
 .exe.config
 .dll
 .cache
-obj/Debug/
+
+# ignoring subdirs
+**/obj/Debug/
+**/obj/Release/
+**/bin/Debug/
+**/bin/Release/
 
 # Prerequisites
 *.d
