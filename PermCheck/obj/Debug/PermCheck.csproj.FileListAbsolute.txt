@@ -1,6 +1,0 @@
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermCheck\bin\Debug\PermCheck.exe.config
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermCheck\bin\Debug\PermCheck.exe
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermCheck\bin\Debug\PermCheck.pdb
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermCheck\obj\Debug\PermCheck.csproj.CoreCompileInputs.cache
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermCheck\obj\Debug\PermCheck.exe
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\PermCheck\obj\Debug\PermCheck.pdb

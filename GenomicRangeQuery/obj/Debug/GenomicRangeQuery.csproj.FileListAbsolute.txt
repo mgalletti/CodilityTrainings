@@ -1,7 +1,0 @@
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\GenomicRangeQuery\obj\Debug\GenomicRangeQuery.csprojResolveAssemblyReference.cache
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\GenomicRangeQuery\obj\Debug\GenomicRangeQuery.csproj.CoreCompileInputs.cache
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\GenomicRangeQuery\bin\Debug\GenomicRangeQuery.exe.config
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\GenomicRangeQuery\bin\Debug\GenomicRangeQuery.exe
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\GenomicRangeQuery\bin\Debug\GenomicRangeQuery.pdb
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\GenomicRangeQuery\obj\Debug\GenomicRangeQuery.exe
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\GenomicRangeQuery\obj\Debug\GenomicRangeQuery.pdb

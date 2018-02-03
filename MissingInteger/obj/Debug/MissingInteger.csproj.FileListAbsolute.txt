@@ -1,7 +1,0 @@
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MissingInteger\bin\Debug\MissingInteger.exe.config
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MissingInteger\bin\Debug\MissingInteger.exe
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MissingInteger\bin\Debug\MissingInteger.pdb
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MissingInteger\obj\Debug\MissingInteger.csprojResolveAssemblyReference.cache
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MissingInteger\obj\Debug\MissingInteger.csproj.CoreCompileInputs.cache
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MissingInteger\obj\Debug\MissingInteger.exe
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\MissingInteger\obj\Debug\MissingInteger.pdb

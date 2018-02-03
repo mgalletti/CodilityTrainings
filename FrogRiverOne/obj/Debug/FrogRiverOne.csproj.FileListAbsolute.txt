@@ -1,7 +1,0 @@
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogRiverOne\bin\Debug\FrogRiverOne.exe.config
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogRiverOne\bin\Debug\FrogRiverOne.exe
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogRiverOne\bin\Debug\FrogRiverOne.pdb
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogRiverOne\obj\Debug\FrogRiverOne.csprojResolveAssemblyReference.cache
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogRiverOne\obj\Debug\FrogRiverOne.csproj.CoreCompileInputs.cache
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogRiverOne\obj\Debug\FrogRiverOne.exe
-C:\Users\MGalletti\Development\Misc_source\Interviews\CodilityTrainings\FrogRiverOne\obj\Debug\FrogRiverOne.pdb
