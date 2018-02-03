@@ -10,7 +10,7 @@
 **/obj/Release/
 **/bin/Debug/
 **/bin/Release/
-*/.vs/
+**/.vs
 
 # Prerequisites
 *.d
