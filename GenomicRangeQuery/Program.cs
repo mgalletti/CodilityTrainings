@@ -30,45 +30,28 @@ namespace GenomicRangeQuery
                 new int[S.Length+1],
                 new int[S.Length+1]
             };
-
-            int a, c, g;
+            
             for (int i = 0; i < S.Length; i++)
             {
-                a = 0;
-                c = 0;
-                g = 0;
                 if (S[i] == 'A')
-                {
-                    a = 1;
-                }
+                    gen[0][i + 1] = gen[0][i] + 1;
                 else if (S[i] == 'C')
-                {
-                    c = 1;
-                }
+                    gen[1][i + 1] = gen[1][i] + 1;
                 else if (S[i] == 'G')
-                {
-                    g = 1;
-                }
-                gen[0][i + 1] = gen[0][i] + a;
-                gen[1][i + 1] = gen[1][i] + c;
-                gen[2][i + 1] = gen[2][i] + g;
+                    gen[2][i + 1] = gen[2][i] + 1;
             }
 
             for (int i = 0; i < P.Length; i++)
             {
-                int sIx = P[i], eIx = Q[i] + 1;
+                int 
+                    sIx = P[i], 
+                    eIx = Q[i] + 1;
                 if (gen[0][eIx] - gen[0][sIx] > 0)
-                {
                     res[i] = 1;
-                }
                 else if (gen[1][eIx] - gen[1][sIx] > 0)
-                {
                     res[i] = 2;
-                }
                 else if (gen[2][eIx] - gen[2][sIx] > 0)
-                {
                     res[i] = 3;
-                }
                 else
                     res[i] = 4;
             }
